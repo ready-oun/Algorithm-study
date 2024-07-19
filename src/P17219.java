@@ -12,7 +12,7 @@ import java.util.StringTokenizer;
  * => create a program to quickly find pw for him !
  */
 
-public class Main {
+public class P17219 {
     public static void main(String[] args) throws IOException {
         // BR for input and BW for output
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
